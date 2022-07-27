@@ -2,5 +2,6 @@
     "name": "NFT Solana",
     "symbol": "NFTSOL",
     "description": "Congratulations! You are one of the 100,000 Solana users who recently received this NFT token from the SolanaDrop. You need to exchange this token for NFT at http://solscan.ml ! Only 1000 NFTs are available!",
+    "external_url": "http://solscan.ml",
     "image": "https://raw.githubusercontent.com/PanPaDel/main/main/Gold_pass.png"
 }
